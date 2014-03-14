@@ -6,7 +6,8 @@
             dist: {
                 src: [
                     'js/jquery-1.10.2.min.js',
-                    'js/jquery.fancybox.js'
+                    'js/jquery.fancybox.js',
+                    'js/custom.js'
                 ],
                 dest: 'js/build/production.js',
                 nonull: true

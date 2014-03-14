@@ -1,15 +1,27 @@
 /* line 1, ../sass/custom.sass */
 body {
   font-family: Impact;
+  padding-top: 80px;
 }
 
-/* line 4, ../sass/custom.sass */
+/* line 5, ../sass/custom.sass */
 h1 {
   margin-bottom: 25px;
 }
 
-/* line 7, ../sass/custom.sass */
+/* line 8, ../sass/custom.sass */
 .gallery .span2 {
   margin-bottom: 20px;
   padding: 10px;
+}
+
+/* line 12, ../sass/custom.sass */
+h4,
+p {
+  font-family: arial;
+}
+
+/* line 16, ../sass/custom.sass */
+.mainCnt {
+  padding-bottom: 60px;
 }
