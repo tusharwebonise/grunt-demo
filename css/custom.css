@@ -1,0 +1,15 @@
+/* line 1, ../sass/custom.sass */
+body {
+  font-family: Impact;
+}
+
+/* line 4, ../sass/custom.sass */
+h1 {
+  margin-bottom: 25px;
+}
+
+/* line 7, ../sass/custom.sass */
+.gallery .span2 {
+  margin-bottom: 20px;
+  padding: 10px;
+}
